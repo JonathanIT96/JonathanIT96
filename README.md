@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan, an IT Professional.
+- ### 👋 Hi, I’m Jonathan, an IT Professional.
 
 <!---
 JonathanIT96/JonathanIT96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
