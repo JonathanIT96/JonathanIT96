@@ -10,7 +10,7 @@
   - [Setting Up Active Directory within Azure VMs](https://github.com/JonathanIT96/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/JonathanIT96/azure-network-protocols)
 - <b>Virtual Private Network</b>
-  -[VPN Setup in Virtual Machine](https://github.com/JonathanIT96/vpn-setup)
+  - [VPN Setup in Virtual Machine](https://github.com/JonathanIT96/vpn-setup)
 
 <h2>🤳Connect with me:</h2>
 
